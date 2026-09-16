@@ -8,8 +8,8 @@ import org.springframework.web.bind.annotation.RestController;
 @RequestMapping("/users")
 public class UserController {
 
-  @GetMapping("/test")
-  public String test() {
-    return "User Service is working";
-  }
+    @GetMapping("/test")
+    public String test() {
+        return "User Service is working";
+    }
 }
