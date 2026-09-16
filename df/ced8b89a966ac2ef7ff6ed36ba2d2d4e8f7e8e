@@ -1,0 +1,25 @@
+src/main/java/com/homecrew/userservice/UserserviceApplication.java
+  s_3d9bbfd7b8519e::t_3933749654f8ff 10-12
+src/main/java/com/homecrew/userservice/config/SecurityConfig.java
+  s_3d9bbfd7b8519e::t_f6bc71ed1085fd 11-14,16-17
+src/main/java/com/homecrew/userservice/controller/UserController.java
+  s_3d9bbfd7b8519e::t_7a5e4e7b12c6ca 11-14
+src/test/java/com/homecrew/userservice/UserserviceApplicationTests.java
+  s_3d9bbfd7b8519e::t_2d8fb1244212cf 9-10
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "dfced8b89a966ac2ef7ff6ed36ba2d2d4e8f7e8e",
+  "prompts": {},
+  "sessions": {
+    "s_3d9bbfd7b8519e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "56713074-cac4-4411-b930-44405690d84c",
+        "model": "anthropic.claude-opus-5"
+      },
+      "human_author": "mThanuj <mullagurithanuj0@gmail.com>"
+    }
+  }
+}
