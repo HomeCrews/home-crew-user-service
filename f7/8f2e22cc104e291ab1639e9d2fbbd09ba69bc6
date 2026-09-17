@@ -1,0 +1,19 @@
+src/main/java/com/homecrew/userservice/UserserviceApplication.java
+  s_31a1eea127e4f8::t_972253bd912c88 6
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "f78f2e22cc104e291ab1639e9d2fbbd09ba69bc6",
+  "prompts": {},
+  "sessions": {
+    "s_31a1eea127e4f8": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "6f4f44be-5501-4eca-af87-9e8310efb295",
+        "model": "claude-opus-5"
+      },
+      "human_author": "mThanuj <mullagurithanuj0@gmail.com>"
+    }
+  }
+}
